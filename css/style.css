@@ -1,0 +1,65 @@
+body	{
+	font-family: 'Montserrat', sans-serif
+}
+
+.right-container{
+	float: right;
+	margin-right: 80px;
+}
+
+.picture{
+	width: 200px;
+	border-radius: 100%;
+	margin-bottom: 70px;
+	margin-top: 70px;
+	
+
+}
+
+.map{
+	width: 200px;
+	margin-right: 60px;
+}
+
+header{
+	margin-bottom: 55px;
+	margin-top: 50px;
+	text-align: left;
+	margin-left: 60px;
+
+}
+
+.linkedin{
+	width:30px;
+}
+
+.cv{
+	margin-left: 5px;
+	color: black;
+}
+
+h1{
+	font: bold 50px 'Roboto Condensed', sans-serif;
+	margin-bottom: 0;
+}
+
+h2{
+	font: 24px/32px;
+	margin-top: 10px;
+	margin-left: 300px;
+	color: grey;
+	margin-bottom: 0;
+}
+
+h3{
+	color: grey;
+	margin-top: 0px;
+}
+
+
+ul li{
+	list-style: none;
+	float: left;
+	margin-left: 10px;
+}
+
