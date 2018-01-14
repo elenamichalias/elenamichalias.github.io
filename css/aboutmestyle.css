@@ -1,0 +1,19 @@
+body	{
+	font-family: 'Montserrat', sans-serif
+}
+
+h1{
+	color: pink;
+}
+
+.backgroundtext {
+	color: grey;
+	margin:30px;
+	text-align: left;
+}
+
+.personalinterests{
+	margin: 30px;
+	color: grey;
+}
+
